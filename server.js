@@ -1,4 +1,3 @@
-
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
@@ -7,7 +6,7 @@ require('dotenv').config();
 
 const app = express();
 
-// CORS total para pruebas
+// CORS abierto
 app.use(cors());
 app.options('*', cors());
 
@@ -22,7 +21,7 @@ app.post('/api/chat', async (req, res) => {
 
   try {
     const completion = await openai.chat.completions.create({
-      model: 'gpt-4',
+      model: 'gpt-3.5-turbo',
       messages: [{ role: 'user', content: message }],
     });
 
@@ -35,5 +34,6 @@ app.post('/api/chat', async (req, res) => {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`🔮 Glitchy Witch backend activo en el puerto ${PORT}`);
+  console.log(`🧠 Glitchy Witch canalizando desde gpt-3.5-turbo en el puerto ${PORT}`);
 });
+
