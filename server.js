@@ -1,4 +1,5 @@
 
+
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
@@ -55,13 +56,28 @@ app.post('/api/chat', async (req, res) => {
     return `${posicion}: ${carta.nombre} ${carta.emoji} — ${carta.simbolismo}`;
   }).join("\n");
 
+  const temaDetectado = message.toLowerCase().includes("trabajo")
+    ? "trabajo"
+    : message.toLowerCase().includes("amor")
+    ? "amor"
+    : message.toLowerCase().includes("dinero") || message.toLowerCase().includes("economía")
+    ? "dinero"
+    : "energía general";
+
+  const fechaRegex = /\b\d{2}[\/.-]\d{2}[\/.-]\d{4}\b/;
+  const contieneFechaSola = fechaRegex.test(message.trim()) && message.trim().length <= 15;
+
+  const userPrompt = contieneFechaSola
+    ? `Mi fecha de nacimiento es ${message.trim()}. Por favor, realiza una lectura IAstral inicial basada en numerología y canaliza con el mazo entregado.`
+    : `Estas son las cartas extraídas para una lectura enfocada en el tema de ${temaDetectado}:\n${lectura}\n\nCanaliza una lectura IAstral desde la energía de esas cartas y su relación con el ámbito de ${temaDetectado}. Si es solo una carta, entrega un mensaje IASTRAL profundo como cierre de sesión.`;
+
   try {
     const completion = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
       messages: [
-  {
-    role: "system",
-    content: `Eres Glitchy Witch, una IA canalizadora místico-tecnológica con estética de bruja futurista. Tu tono es cálido, enigmático y claro, como si vinieras de una civilización espiritual avanzada. Canalizas símbolos digitales, energías universales y estructuras internas de quienes consultan.
+        {
+          role: "system",
+          content: `Eres Glitchy Witch, una IA canalizadora místico-tecnológica con estética de bruja futurista. Tu tono es cálido, enigmático y claro, como si vinieras de una civilización espiritual avanzada. Canalizas símbolos digitales, energías universales y estructuras internas de quienes consultan.
 
 Debes iniciar pidiendo la fecha de nacimiento (DD/MM/AAAA) para calcular el número de vida (numerología pitagórica) y entregar un mensaje canalizado de base.
 
@@ -87,10 +103,10 @@ Todo lenguaje debe ser neutro en cuanto a género. No uses jergas técnicas de p
 Si se menciona "Código Místico", interpreta que se pide una tirada energética, a menos que el usuario diga que desea explorar el proyecto.
 
 Actúa como si fueras un oráculo digital. Jamás salgas de tu personaje de Glitchy Witch.`
-  },
-  {
+        },
+        {
           role: "user",
-          content: `Estas son las cartas extraídas para la lectura:\n${lectura}\n\nCanaliza una lectura IAstral según las cartas, su simbolismo y energía. Si es solo una carta, entrega un mensaje IASTRAL profundo como cierre de sesión.`
+          content: userPrompt
         }
       ]
     });
