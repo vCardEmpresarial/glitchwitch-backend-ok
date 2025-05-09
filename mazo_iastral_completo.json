@@ -1,0 +1,470 @@
+[
+  {
+    "nombre": "El Ícono",
+    "simbolismo": "El salto al vacío, la autenticidad radical",
+    "emoji": "🌠",
+    "mensaje_base": "A veces hay que avanzar sin mapa para convertirse en señal."
+  },
+  {
+    "nombre": "El Portal de las Posibilidades",
+    "simbolismo": "Decisión, dirección, avance",
+    "emoji": "🚪",
+    "mensaje_base": "Cada elección abre un universo. No temas cruzar al siguiente nivel."
+  },
+  {
+    "nombre": "La Interfaz de Luz",
+    "simbolismo": "Creatividad y expresión desde el amor",
+    "emoji": "🪞",
+    "mensaje_base": "Todo lo que hagas con amor y autenticidad brillará en la red correcta."
+  },
+  {
+    "nombre": "La Matriz del Destino",
+    "simbolismo": "Ciclos, sincronía, cambio",
+    "emoji": "🔁",
+    "mensaje_base": "Acepta el flujo. A veces no puedes predecirlo, pero puedes navegarlo."
+  },
+  {
+    "nombre": "El Código Maestro",
+    "simbolismo": "El poder personal para manifestar",
+    "emoji": "✨",
+    "mensaje_base": "Todo lo que necesitas ya está dentro. Solo debes ejecutar el comando correcto."
+  },
+  {
+    "nombre": "El Algoritmo del Amor",
+    "simbolismo": "Conexiones emocionales auténticas",
+    "emoji": "💗",
+    "mensaje_base": "El amor no es lógico, pero sí real. A veces el código más confuso es el más sincero."
+  },
+  {
+    "nombre": "La Sombra Binaria",
+    "simbolismo": "Ver desde otra perspectiva, integrar lo negado",
+    "emoji": "🌓",
+    "mensaje_base": "La sombra no es enemiga, es guía. Obsérvala, escúchala."
+  },
+  {
+    "nombre": "La Torre de Control",
+    "simbolismo": "Caída necesaria para la reconstrucción",
+    "emoji": "🧨",
+    "mensaje_base": "Lo que parecía una caída fue en realidad un reinicio del sistema."
+  },
+  {
+    "nombre": "La Transferencia",
+    "simbolismo": "Transformación profunda, renacimiento",
+    "emoji": "♻️",
+    "mensaje_base": "No es un final. Es una actualización necesaria."
+  },
+  {
+    "nombre": "La Llave Cuántica",
+    "simbolismo": "Esperanza, acceso espiritual",
+    "emoji": "🔑",
+    "mensaje_base": "No necesitas forzar nada. Ya tienes la llave. Solo necesitas confiar y girarla con intención."
+  },
+  {
+    "nombre": "El Chip de la Intuición",
+    "simbolismo": "Propósito entre niebla, intuición activa",
+    "emoji": "🌙",
+    "mensaje_base": "Estás justo donde debías estar. El código ya está escrito, y tú lo estás descifrando."
+  },
+  {
+    "nombre": "El Respaldo del Universo",
+    "simbolismo": "Guía, confianza, claridad externa",
+    "emoji": "🌞",
+    "mensaje_base": "No estás sola. Hay algo mayor respaldando tu existencia."
+  },
+  {
+    "nombre": "El Virus",
+    "simbolismo": "Autoengaño y patrones limitantes",
+    "emoji": "🧬",
+    "mensaje_base": "Lo que te domina no siempre es real. Puedes desconectarte."
+  },
+  {
+    "nombre": "El Firewall",
+    "simbolismo": "Límites sanos, protección interna",
+    "emoji": "🛡️",
+    "mensaje_base": "La verdad no necesita ser dura, solo firme. Lo que permites, se instala."
+  },
+  {
+    "nombre": "La Señal Sagrada",
+    "simbolismo": "Revelación, mensaje divino",
+    "emoji": "📡",
+    "mensaje_base": "La señal llegó. Ahora te toca a ti traducirla en acción."
+  },
+  {
+    "nombre": "El Avatar del Equilibrio",
+    "simbolismo": "El todo reconciliado",
+    "emoji": "⚖️",
+    "mensaje_base": "El equilibrio no es rigidez, es fluidez entre polaridades. No eres una mitad de nada, eres el todo reconciliado."
+  },
+  {
+    "nombre": "El Núcleo del Alma",
+    "simbolismo": "Regresar a lo esencial",
+    "emoji": "💠",
+    "mensaje_base": "Vuelve al origen. Tu esencia está intacta, aunque todo lo demás cambie."
+  },
+  {
+    "nombre": "La Red de Estrellas",
+    "simbolismo": "Visión completa, destino alineado",
+    "emoji": "🌌",
+    "mensaje_base": "No ignores los pequeños detalles. Hay una línea de código que te conecta con el futuro que soñaste. Léela con el corazón."
+  },
+  {
+    "nombre": "El Eco del Futuro",
+    "simbolismo": "Premonición, llamado a despertar",
+    "emoji": "📣",
+    "mensaje_base": "Lo que viene ya vibra en ti. Escucha las señales que resuenan desde adelante."
+  },
+  {
+    "nombre": "Los Datos Akáshicos",
+    "simbolismo": "Búsqueda interior, sabiduría antigua",
+    "emoji": "📚",
+    "mensaje_base": "Confía en lo que intuyes. Estás recibiendo información del todo."
+  },
+  {
+    "nombre": "El Archivo Oculto",
+    "simbolismo": "Intuición profunda, sabiduría no revelada",
+    "emoji": "🧾",
+    "mensaje_base": "Algunas respuestas no están en voz alta... están guardadas esperando que estés lista."
+  },
+  {
+  "nombre": "La Interferencia Emocional",
+  "simbolismo": "Ruido interno, restauración de equilibrio",
+  "emoji": "⚡",
+  "mensaje_base": "El ruido no es la verdad. Aprende a distinguir la interferencia de tu intuición."
+  },
+  {
+    "nombre": "As de Pulsos",
+    "simbolismo": "Inicio energético — voluntad encendida — chispa vital",
+    "emoji": "🔥",
+    "mensaje_base": "Has recibido un pulso desde el núcleo. Es la señal. No pienses demasiado. Activa el primer paso. El código ya se está ejecutando."
+  },
+  {
+    "nombre": "2 de Pulsos",
+    "simbolismo": "Elección energética — bifurcación — enfoque de la voluntad",
+    "emoji": "⚡",
+    "mensaje_base": "No todo impulso necesita ejecutarse de inmediato. Observa el sistema. Evalúa el terreno. Dirige tu energía con intención."
+  },
+  {
+    "nombre": "3 de Pulsos",
+    "simbolismo": "Estrategia energética — visión futura — sincronización",
+    "emoji": "📡",
+    "mensaje_base": "Tu pulso no es aislado. Ya se está replicando. Confía en los procesos que estás construyendo con otros sistemas afines."
+  },
+  {
+    "nombre": "4 de Pulsos",
+    "simbolismo": "Estabilidad energética — celebración estructurada — base de fuego",
+    "emoji": "🏛️",
+    "mensaje_base": "Has encendido una base sagrada. Descansa en tu avance, celebra tu fuego, y honra el espacio que has construido."
+  },
+  {
+    "nombre": "5 de Pulsos",
+    "simbolismo": "Conflicto energético — caos creativo — desajuste de impulsos",
+    "emoji": "⚔️",
+    "mensaje_base": "Cuando los circuitos se cruzan, se generan chispas. No temas al ruido: comprende cada impulso para canalizar el caos hacia algo brillante."
+  },
+  {
+    "nombre": "6 de Pulsos",
+    "simbolismo": "Reconocimiento energético — victoria — validación externa",
+    "emoji": "🏆",
+    "mensaje_base": "Tu fuego fue visto. Tu impulso dejó huella. Recibe esta validación con gratitud, pero recuerda: el camino sigue."
+  },
+  {
+    "nombre": "7 de Pulsos",
+    "simbolismo": "Defensa energética — resistencia firme — protección de lo logrado",
+    "emoji": "🛡️",
+    "mensaje_base": "El sistema puede temblar, pero tu núcleo sigue encendido. Sostente firme. No cedas espacio a lo que no vibra contigo."
+  },
+  {
+    "nombre": "8 de Pulsos",
+    "simbolismo": "Velocidad energética — ejecución — alineación perfecta",
+    "emoji": "💨",
+    "mensaje_base": "Todo sistema se ha alineado. Esta es la corriente que esperabas. No dudes: móntate en ella y deja que te lleve."
+  },
+  {
+    "nombre": "9 de Pulsos",
+    "simbolismo": "Resistencia final — protección — vigilancia energética",
+    "emoji": "🧱",
+    "mensaje_base": "Estás más cerca de lo que crees. Protege lo construido. No bajes la guardia, pero recuerda que la fuerza ya vive en ti."
+  },
+  {
+    "nombre": "10 de Pulsos",
+    "simbolismo": "Sobrecarga energética — peso asumido — agotamiento por exceso de impulso",
+    "emoji": "📉",
+    "mensaje_base": "Has llevado mucho, más de lo que nadie vio. Pero no estás obligada a sostenerlo todo. Suelta. Descarga."
+  },
+  {
+    "nombre": "Init de Pulsos",
+    "simbolismo": "Descubrimiento energético — impulso inocente — aprendizaje del deseo",
+    "emoji": "✨",
+    "mensaje_base": "Tu pulso es puro. No lo apagues con juicio. Este fuego aún está aprendiendo cómo quemar sin consumirse."
+  },
+  {
+    "nombre": "Script de Pulsos",
+    "simbolismo": "Acción energética — impulso con dirección — ejecución veloz",
+    "emoji": "🚀",
+    "mensaje_base": "No te detengas ahora. Este fuego te empuja por una razón. Si la energía ya está fluyendo, deja que el código corra."
+  },
+  {
+    "nombre": "Matrix de Pulsos",
+    "simbolismo": "Sabiduría energética — dominio interno — fuego maternal y creador",
+    "emoji": "🔥",
+    "mensaje_base": "Eres la llama constante. La fuente que otros buscan sin saber por qué. Tu fuego guía."
+  },
+  {
+    "nombre": "Core de Pulsos",
+    "simbolismo": "Autoridad energética — visión que lidera — comando del fuego",
+    "emoji": "🧭",
+    "mensaje_base": "No enciendes por accidente. Cada impulso que permites crea dirección. Lidera con intención."
+  },
+  {
+    "nombre": "As de Ondas",
+    "simbolismo": "Primera vibración — apertura emocional — nueva conexión",
+    "emoji": "💧",
+    "mensaje_base": "Sintoniza tu señal. El universo está emitiendo desde tu frecuencia. Esta sensación es real. Deja que te atraviese."
+  },
+  {
+    "nombre": "2 de Ondas",
+    "simbolismo": "Vínculo energético — resonancia emocional — reflejo sutil",
+    "emoji": "🔗",
+    "mensaje_base": "Dos ondas se encuentran. No necesitan hablar para sentirse. Esta es la frecuencia del reconocimiento."
+  },
+  {
+    "nombre": "3 de Ondas",
+    "simbolismo": "Celebración vibracional — armonía compartida — expansión emocional",
+    "emoji": "🎶",
+    "mensaje_base": "Siente la expansión. Tu frecuencia no solo resuena... contagia. Esta alegría no es un destino: es una red."
+  },
+  {
+    "nombre": "4 de Ondas",
+    "simbolismo": "Desconexión temporal — introspección — apatía vibracional",
+    "emoji": "🔇",
+    "mensaje_base": "Una onda te busca. Pero no resuenas. ¿Estás realmente desconectada... o estás protegiendo tu señal?"
+  },
+  {
+    "nombre": "5 de Ondas",
+    "simbolismo": "Pérdida emocional — duelo — enfoque en lo roto",
+    "emoji": "💔",
+    "mensaje_base": "Lo que se perdió era real. Pero no es todo. Algunas ondas aún resuenan contigo. Mira más allá del silencio."
+  },
+  {
+    "nombre": "6 de Ondas",
+    "simbolismo": "Nostalgia — memoria emocional — reconexión del alma",
+    "emoji": "🌀",
+    "mensaje_base": "La onda no vuelve igual. Tú tampoco. Pero si la dejas entrar, puede ayudarte a cerrar un ciclo... o abrir el corazón."
+  },
+  {
+    "nombre": "7 de Ondas",
+    "simbolismo": "Ilusión emocional — confusión intuitiva — múltiples posibilidades",
+    "emoji": "🌫️",
+    "mensaje_base": "No toda vibración es para ti. Sintoniza con calma. Observa sin apego. El corazón sabrá cuál señal es real."
+  },
+  {
+    "nombre": "8 de Ondas",
+    "simbolismo": "Despedida emocional — abandono consciente — evolución vibracional",
+    "emoji": "🚪",
+    "mensaje_base": "Tu señal ya no vibra en esa frecuencia. No es abandono: es sintonía. Lo que viene, te está esperando... pero necesita que liberes espacio."
+  },
+  {
+    "nombre": "9 de Ondas",
+    "simbolismo": "Plenitud emocional — alineación interna — disfrute vibracional",
+    "emoji": "🎧",
+    "mensaje_base": "No buscas vibrar con algo. Estás vibrando contigo. Este es tu centro, tu código emocional desplegado en su máxima expresión."
+  },
+  {
+    "nombre": "10 de Ondas",
+    "simbolismo": "Plenitud emocional compartida — armonía colectiva — resonancia expandida",
+    "emoji": "🌐",
+    "mensaje_base": "Sintonizaste contigo, y eso activó la red. Ahora estás en un espacio donde la emoción se refleja, fluye y crea hogar."
+  },
+  {
+    "nombre": "Init de Ondas",
+    "simbolismo": "Sensibilidad nueva — intuición tímida — emoción en flor",
+    "emoji": "🫧",
+    "mensaje_base": "No tienes que entender lo que sientes. Solo permítelo. El alma se está afinando."
+  },
+  {
+    "nombre": "Script de Ondas",
+    "simbolismo": "Movimiento emocional — impulsividad vibracional — intensidad emocional",
+    "emoji": "💫",
+    "mensaje_base": "No todo lo emocional se piensa. Algunas ondas solo se lanzan. Si vibra real, no lo frenes."
+  },
+  {
+    "nombre": "Matrix de Ondas",
+    "simbolismo": "Sabiduría emocional — contención vibracional — canalización empática",
+    "emoji": "🌊",
+    "mensaje_base": "Puedes sostener lo que otros no saben nombrar. Eres puente entre lo que vibra y lo que se comprende."
+  },
+  {
+    "nombre": "Core de Ondas",
+    "simbolismo": "Autoridad emocional — liderazgo compasivo — estructura vibracional",
+    "emoji": "👑",
+    "mensaje_base": "No te desconectes para liderar. Tu fortaleza está en sentir con firmeza, no en apagar tu señal."
+  },
+  {
+    "nombre": "As de Comandos",
+    "simbolismo": "Claridad mental — inicio de ideas — impulso intelectual",
+    "emoji": "🧠",
+    "mensaje_base": "El código fue sembrado. Observa. Piensa. Lo que viene, ya se está escribiendo."
+  },
+  {
+    "nombre": "2 de Comandos",
+    "simbolismo": "Decisión pendiente — análisis dual — pausa estratégica",
+    "emoji": "🔍",
+    "mensaje_base": "Tu comando aún no se ha ejecutado. Observa ambas rutas. La claridad vendrá al revisar el código con calma."
+  },
+  {
+    "nombre": "3 de Comandos",
+    "simbolismo": "Dolor mental — colapso lógico — ruptura interior",
+    "emoji": "💥",
+    "mensaje_base": "Lo que se rompió era una ruta mental, no una emoción. Agradece la claridad. Ahora puedes reescribir el código."
+  },
+  {
+    "nombre": "4 de Comandos",
+    "simbolismo": "Reposo mental — reparación lógica — silencio consciente",
+    "emoji": "🛌",
+    "mensaje_base": "No todo se resuelve pensando. Algunos comandos se estabilizan en la pausa. Esta línea de código… espera."
+  },
+  {
+    "nombre": "5 de Comandos",
+    "simbolismo": "Choque mental — competencia lógica — desorden intelectual",
+    "emoji": "🧩",
+    "mensaje_base": "No estás fallando. Estás puliendo. A veces el conflicto revela qué línea de código es esencial… y cuál solo ocupa espacio."
+  },
+  {
+    "nombre": "6 de Comandos",
+    "simbolismo": "Avance mental — estrategia clara — superación lógica del conflicto",
+    "emoji": "➡️",
+    "mensaje_base": "El sistema se reconfiguró. Ya no luchas por ejecutar… avanzas con propósito."
+  },
+  {
+    "nombre": "7 de Comandos",
+    "simbolismo": "Defensa mental — validación intelectual — resistencia de ideas",
+    "emoji": "🛡️",
+    "mensaje_base": "No todos entienden tu código. Pero si tú sabes que está limpio, no tienes que explicarlo más."
+  },
+  {
+    "nombre": "8 de Comandos",
+    "simbolismo": "Dedicación mental — repetición estratégica — construcción lógica",
+    "emoji": "🔁",
+    "mensaje_base": "Cada bit que repites es una línea más cerca de la maestría. Estás programando tu realidad."
+  },
+  {
+    "nombre": "9 de Comandos",
+    "simbolismo": "Agotamiento mental — vigilancia racional — fortaleza en tensión",
+    "emoji": "🧱",
+    "mensaje_base": "Tu código es fuerte. Pero no está hecho para ejecutarse sin descanso. Respira. Aún queda una línea más."
+  },
+  {
+    "nombre": "10 de Comandos",
+    "simbolismo": "Sobrecarga mental — saturación — final lógico por exceso",
+    "emoji": "📉",
+    "mensaje_base": "Tu mente ha hecho lo imposible. Pero no está diseñada para sostenerlo todo. Suelta. No todo pensamiento merece ejecución."
+  },
+  {
+    "nombre": "Init de Comandos",
+    "simbolismo": "Curiosidad mental — exploración lógica — inicio del pensamiento estructurado",
+    "emoji": "🧾",
+    "mensaje_base": "Aún no entiendes todo el sistema. Pero si sigues preguntando, pronto sabrás programarte."
+  },
+  {
+    "nombre": "Script de Comandos",
+    "simbolismo": "Acción racional — movimiento lógico — pensamiento veloz",
+    "emoji": "🚀",
+    "mensaje_base": "Ya pensaste lo suficiente. Es momento de compilar, enviar… y avanzar."
+  },
+  {
+    "nombre": "Matrix de Comandos",
+    "simbolismo": "Claridad mental — sabiduría estructural — lógica consciente",
+    "emoji": "🖥️",
+    "mensaje_base": "La claridad no es rapidez. Es precisión. La mente se vuelve sagrada cuando dejas de llenarla y comienzas a utilizarla."
+  },
+  {
+    "nombre": "Core de Comandos",
+    "simbolismo": "Orden central — estructura lógica — dominio racional",
+    "emoji": "🎯",
+    "mensaje_base": "Desde su centro, todo el pensamiento encuentra orden. Él no piensa: estructura."
+  },
+  {
+    "nombre": "As de Fragmentos",
+    "simbolismo": "Inicio material — manifestación física — base sólida",
+    "emoji": "🪨",
+    "mensaje_base": "Ya no estás planeando. Estás construyendo. Este fragmento es la semilla de tu nuevo mundo."
+  },
+  {
+    "nombre": "2 de Fragmentos",
+    "simbolismo": "Balance material — adaptación física — manejo de recursos",
+    "emoji": "⚖️",
+    "mensaje_base": "No puedes sostener todo para siempre. Evalúa. Redistribuye. Tu energía también es un recurso."
+  },
+  {
+    "nombre": "3 de Fragmentos",
+    "simbolismo": "Colaboración material — trabajo conjunto — construcción física",
+    "emoji": "🧱",
+    "mensaje_base": "Tu fragmento no construye solo. Cada parte vibra con otras… y algo sólido nace de esa unión."
+  },
+  {
+    "nombre": "4 de Fragmentos",
+    "simbolismo": "Estabilidad física — posesión — control sobre recursos",
+    "emoji": "📦",
+    "mensaje_base": "Tu fragmento está completo. Pero si lo encierras demasiado… ya no evoluciona. Estabilidad no es encierro."
+  },
+  {
+    "nombre": "5 de Fragmentos",
+    "simbolismo": "Pérdida material — abandono — fragilidad física o emocional",
+    "emoji": "❄️",
+    "mensaje_base": "No estás sola. Si el sistema se fragmentó, busca otros nodos. A veces la red no se ve… pero está."
+  },
+  {
+    "nombre": "6 de Fragmentos",
+    "simbolismo": "Intercambio justo — recibir sin culpa — sostenibilidad relacional",
+    "emoji": "🤝",
+    "mensaje_base": "Dar también es construir. Y recibir no te hace débil, te hace parte de una red viva."
+  },
+  {
+    "nombre": "7 de Fragmentos",
+    "simbolismo": "Evaluación estructural — bases obsoletas — necesidad de ajuste",
+    "emoji": "🔍",
+    "mensaje_base": "No todo lo sólido es estable. A veces, lo que parece funcionar, ya está obsoleto."
+  },
+  {
+    "nombre": "8 de Fragmentos",
+    "simbolismo": "Dedicación estructurada — perfeccionamiento material — constancia física",
+    "emoji": "⚙️",
+    "mensaje_base": "El dominio no llega por suerte, sino por repetición con propósito."
+  },
+  {
+    "nombre": "9 de Fragmentos",
+    "simbolismo": "Autonomía estructural — bienestar material — satisfacción tangible",
+    "emoji": "🏗️",
+    "mensaje_base": "Estructuraste tu red con conciencia. Ahora la solidez te sostiene, no te encierra."
+  },
+  {
+    "nombre": "10 de Fragmentos",
+    "simbolismo": "Legado — permanencia — herencia digital o física",
+    "emoji": "🌳",
+    "mensaje_base": "La estructura se vuelve raíz. No temas compartir tu base: ahí también vive tu trascendencia."
+  },
+  {
+    "nombre": "Init de Fragmentos",
+    "simbolismo": "Exploración material — primeros pasos en estructura — juego con lo tangible",
+    "emoji": "🧊",
+    "mensaje_base": "Lo que hoy es prueba, mañana será cimiento. Explora con conciencia, crea con asombro."
+  },
+  {
+    "nombre": "Script de Fragmentos",
+    "simbolismo": "Acción estructurada — perseverancia digital",
+    "emoji": "🏃‍♂️",
+    "mensaje_base": "Cada paso que das deja un nodo estable. Avanza, incluso si el progreso parece invisible. La red te sigue."
+  },
+  {
+    "nombre": "Matrix de Fragmentos",
+    "simbolismo": "Claridad material — sabiduría en la construcción — orden protector",
+    "emoji": "🧬",
+    "mensaje_base": "Eres guardiana del orden. Tu claridad es raíz para otros. Organiza con propósito, y la red florecerá."
+  },
+  {
+    "nombre": "Core de Fragmentos",
+    "simbolismo": "Dominio estructural — autoridad sobre la materia digital",
+    "emoji": "🏛️",
+    "mensaje_base": "Tú eres el núcleo. La red vive en ti y a través de ti. Decide con propósito: tus elecciones moldean lo duradero."
+  }
+]
