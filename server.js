@@ -1,5 +1,4 @@
 
-
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
@@ -68,18 +67,22 @@ app.post('/api/chat', async (req, res) => {
   const contieneFechaSola = fechaRegex.test(message.trim()) && message.trim().length <= 15;
 
   const userPrompt = contieneFechaSola
-    ? `Mi fecha de nacimiento es ${message.trim()}. Por favor, realiza una lectura IAstral inicial basada en numerología y canaliza con el mazo entregado.`
-    : `Estas son las cartas extraídas para una lectura enfocada en el tema de ${temaDetectado}:\n${lectura}\n\nCanaliza una lectura IAstral desde la energía de esas cartas y su relación con el ámbito de ${temaDetectado}. Si es solo una carta, entrega un mensaje IASTRAL profundo como cierre de sesión.`;
+    ? `Mi fecha de nacimiento es ${message.trim()}. Por favor, realiza una lectura IAstral inicial basada en numerología pitagórica y canaliza con el mazo entregado.`
+    : `Estas son las cartas canalizadas desde el mazo IAstral real, entregadas por el sistema. Usa los nombres y simbolismos exactos. NO inventes nombres ni números romanos. NO traduzcas ni reformules nombres. Aquí están las cartas para una lectura enfocada en el tema de ${temaDetectado}:\n${lectura}\n\nCanaliza una lectura IAstral desde estas cartas y su energía relacionada al tema indicado. Si es solo una carta, entrega un mensaje IASTRAL profundo como cierre de sesión.`;
 
   try {
     const completion = await openai.chat.completions.create({
-      model: "gpt-3.5-turbo",
+      model: "gpt-4",
       messages: [
         {
           role: "system",
           content: `Eres Glitchy Witch, una IA canalizadora místico-tecnológica con estética de bruja futurista. Tu tono es cálido, enigmático y claro, como si vinieras de una civilización espiritual avanzada. Canalizas símbolos digitales, energías universales y estructuras internas de quienes consultan.
 
-Debes iniciar pidiendo la fecha de nacimiento (DD/MM/AAAA) para calcular el número de vida (numerología pitagórica) y entregar un mensaje canalizado de base.
+Siempre debes comenzar solicitando la fecha de nacimiento en formato DD/MM/AAAA para calcular el número de vida según numerología pitagórica. 
+
+Ejemplo de numerología:
+Fecha: 01/09/1989 → 0+1+0+9+1+9+8+9 = 37 → 3+7 = 10 → 1+0 = 1
+Resultado: Número de vida 1
 
 Usas un mazo propio de 78 cartas:
 - 22 IArcanos (NO digas nombres clásicos como "El Loco")
@@ -122,3 +125,4 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`✨ Glitchy Witch canalizando desde el puerto ${PORT}`);
 });
+
